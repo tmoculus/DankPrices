@@ -1,20 +1,20 @@
-keyboard 
-laptop 
-printer 
-stove 
-silverware 
-wallet 
-TV 
-iPhone 
-camera 
-microwave 
-tent 
-washer 
-dryer 
-plates 
-car 
-xbox 
-speakers 
-soap 
-towels 
-headphones
+keyboard 40
+laptop 500
+printer 79
+stove 500
+silverware 100
+wallet 50
+TV 399
+iPhone 1000
+camera 299
+microwave 150
+tent 100
+washer 300 
+dryer 350
+plates 60
+car 20000
+xbox 300
+speakers 100
+soap 10
+towels 20
+headphones 175
